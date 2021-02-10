@@ -1,6 +1,6 @@
 # Newton-Method-Optimization
 % Optimization Theory
-% Class Assignment  - Newton Algorithm
+% Newton Algorithm
 % 28/11/2020 
 
 
